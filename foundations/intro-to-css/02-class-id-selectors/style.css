@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.cool-class{
+    background-color:rgb(255, 176, 167);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif; 
+}
+
+.ajust-font-size{
+    font-size: 24px;
+}
+
+#div1{
+    color:rgb(5, 5, 255);
+    font-size: 36px;
+}
+
+#div2{
+   background-color:rgb(70, 245, 76);
+   font-weight: bold;
+}
